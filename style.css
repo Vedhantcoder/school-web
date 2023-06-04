@@ -1,0 +1,43 @@
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index :99999;
+}
+
+
+#SchoolName{
+    background: linear-gradient( #f5ec42 30%,#10c40d 60%);
+    }
+    #schoolimg{
+        background: linear-gradient( #f5ec42 30%,#10c40d 60%);
+        }
+        #schoolimg img{
+            width:80%;
+                height:80%;
+
+        }
+        #facilities{
+            background: linear-gradient( #f5ec42 30%,#10c40d 60%);
+            
+            }
+            #facilities img{
+                width:80%;
+                height:80%;
+            }
+            #activity{
+                background: linear-gradient( #f5ec42 30%,#10c40d 60%);
+                }
+                #activity img {
+                    width:50%;
+                    height:50%; 
+
+                }
+                #youtube{
+                    background: linear-gradient( #f5ec42 30%,#10c40d 60%);
+                    }
+                    #Schoolinfo{
+                        background: linear-gradient( #f5ec42 30%,#10c40d 60%);
+                        }
+                        #contact{
+                            background: linear-gradient( #f5ec42 30%,#10c40d 60%);
+                            }
